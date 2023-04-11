@@ -1,0 +1,84 @@
+1.) Information visualization is the science that unveils the underlying structure of data sets using visual representations.
+Correct Answer: True
+
+2.) Letters appeared before visual symbols in the history of written languages.
+
+
+True
+
+False
+
+3.) Which of the following choices uses images, graphs or movies to convey visual information or explanation of data acquired from the real world?
+options:
+Simulations
+Glyphs
+Visualization
+Images
+Correct Answer: Visualisation
+Explanation: Visualisation is a process wehere we collect the data and represent the data in different forms like images graphs or movies to convey and explain the information iin the foem of visual of the real time data that is present in the world.
+
+4.) ____ is the process through which we can transform continuous variables, models or functions into a discrete form.
+ Answer: Discretization.
+
+5.) Human cognitive capacity is increasing in direct proportion to the amount of data in the world.
+
+
+True
+
+False
+
+2.5 million gigabytes
+
+6.) The type of visualization created by Dr. Snow to pinpoint the origins of the Cholera epidemic could best be described as a:
+Correct ANswer: Heat Map
+Explanation:Dr.snow used heatmpas.
+
+7.) Human eyes respond to all colors in the same amount of time.
+Correct ANswer: False
+Explanation: Human colours 
+one million different colors a healthy human eye has three types of cone cells, each of which can register about 100 different color shades, amounting to around a million combinations.
+This curve peaks at 555 nanometers, which means that under normal lighting conditions, the eye is most sensitive to a yellowish-green color.
+
+8.) 
+
+9.)
+
+10.) 
+
+11.) Which of the following visualization techniques maps values to colors in a table?
+Correct answer: Heat Maps
+
+12.) To use Geometry-based visualization techniques, we must retain the tabular form of the visualization.
+
+Correct Aswer:False
+
+
+
+22.)Which of the following is NOT a problem associated with dimension reduction in visualization?
+
+The generated dimensions are intuitive in their meaning.
+Information Loss
+Non-Intuitive parameters to try when producing the visualization.
+Lack of user interaction allowed
+Correct Answer:
+Explanation:
+
+23.)Visual Cues for user interaction are an important part of dimension manipulation.
+
+Correct Answer:True
+Explanation: visual cues, 
+Explanation: Successful data visualization will be achieved when these four elements are present: information, story, goal and visual inform.
+
+24.) Which of the following are an important way to justify the effectiveness of a visualization?
+
+Artistic Value
+Color Scales
+Visual Cues
+E
+
+25.) Categorical data has an inherent order to it. 
+Correct answer: False
+Explanation:-
+1.) Even if the categories can be placed in a natural order, they have no magnitude or units
+2.) Categorical variables are those that provide groupings that may have no logical order, or a logical order with inconsistent differences between groups (e.g., the difference between 1st place and 2 second place in a race is not equivalent to the difference between 3rd place and 4th place)
+
