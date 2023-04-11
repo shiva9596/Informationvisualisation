@@ -1,0 +1,91 @@
+Hello Professor
+Greetings of the day!
+As I have spoken with you today about my Assignment-02, I am writing an explanation for all the questions below. Please look at my quiz professor. Though i have got an extension of one day but the test was dated till feb 27.
+ 
+question -01:  What is the purpose of information visualization as a computer science topic?
+Correct Answer:  To use well-designed data graphics to help users form insights of information.
+
+Explanation: The main purpose of the IV as a computer science topic is to help users formulate large data into small insights in the different forms of visualisations so that most of the users can get an overview and sometimes can understand the large datasets in the form of viz.
+===
+Question-02: What is a color space?
+Correct Answer: A set of defined colours.
+
+Explanation: Color space is defined as a set of colors
+
+ ====
+Question-03: What is the effective receptor in human eyes for color sensing? 
+Correct Answer: Cone
+
+Explanation: Effective receptor in human eyes for color sensing is Cones by the help of mixing neural signals from cone photoreceptors.
+
+=== 
+Question-04: What is the effective receptor in human eyes for Motion detecting? 
+Correct Answer: Rod
+Explanation: Rod helps us in motion detecting
+
+=== 
+Question-05: Which of the following is NOT a necessary component of an effective visualization system? 
+Correct Answer: Graphics designed by a professional artist
+Explanation: for effective visualization system we need not required a graphics designed by a professional artist
+these are the necessary components: Easy Interaction, Understandable Visual Representations,A user study showing effective communication
+===
+Question-06: In designing an information visualization system, what item should NOT be considered? 
+Correct Answer: Raw data compression 
+ 
+Question-07: Which is NOT a challenge for information visualization? 
+Correct Answer: Raw data collection
+ 
+Question-08: Why do we use three values (not four or two) to represent a color in computer systems? 
+Explanation: In computer systems, a color is represented by three numbers: red, green, and blue. This is because the three values correspond to the amounts of red, green, and blue light utilized to produce the color. In reality, red, green, and blue are referred to as primary colors. Because we may mix these three colors to make other colors, they are referred to as primary colors. Red, green, and blue are the three primary colors used to combine colored light, which is a combination of all three primary hues. Because RGB in light generates white, a white computer screen is composed of tens of thousands of individual segments of red, blue, and green. If you see a water droplet on a white screen, you'll commonly see a rainbow of colors.
+Physical items that can be combined in subtractive color mixing include paint, dye, and ink. Yellow, Cyan, and Magenta, or CMY, are combined to create black K for black, also known as Key.
+ 
+some important imformation from lecture notes: LCD screens have color filters that let different intensities of R, G, and B pass through each pixel. Pixels of different colors blend into color. 
+ 
+ 
+Computers can use what we perceive since they make light rather than combining pigments to create color, therefore they don't need to do that.
+ 
+ 
+ 
+ 
+Question-09:  Here is a small sample of the data table from Fisher’s Iris data:
+Sepal length	Sepal width	Petal length	Petal width
+5.1	3.5	1.4	0.2
+4.9	3.0	1.4	0.2
+5.7	3.2	1.3	0.2
+5.9	3.0	5.1	1.8
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Please visualize this table with a parallel coordinate plot (PCP).
+ 
+ 
+You may use Excel, XmdvTool, Tableau or any visualization software that you like. Upload the data file you created with the visualization, and a screenshot showing the completed visualization.
+ 
+Alternatively, you may draw it (neatly) on the following empty PCP by hand and upload a scan of your visualization.
+ 
+ 
+ 
+ 
+--------
+Warm Regards
+Shiva Kumar Peddapuram
+https://www.linkedin.com/in/shivakumarpeddapuram/
+ 
+ 
+ 
+
+
+Performance of computing power and its effect on interaction,Application requirements,Specific analytical tasks,Raw data compression,Raw data compression
+
+Raw data collection
+
+
+Limited display area/resolution, Cluttering, Human visual perception capability
